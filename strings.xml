@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">FirstApp</string>
     <string name="button">Вычислить</string>
-    <string name="gramы">Введите кол-во граммов</string>
+    <string name="grams">Введите кол-во граммов</string>
     <string name="count">Вычислить</string>
 
     <string-array name="names">
-        <item>Куриное филе</item>
-        <item>Свинина</item>
-        <item>Говядина</item>
+        <item>Помидор</item>
+        <item>Огурец</item>
+        <item>Апельсин</item>
         <item>Яблоко</item>
     </string-array>
 </resources>
